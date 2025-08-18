@@ -1,10 +1,7 @@
 2025/08/17 1616 Forked css-exercises repo
-2025/08/17 1617 Starting 01-css-methods
 2025/08/17 xxxx Finished 01-css-methods
-2025/08/17 1841 Starting 02-class-id-selectors
 2025/08/17 1855 Finished 02-class-id-selectors
 2025/08/17 1908 Finished 03-grouping-selectors
-2025/08/17 1913 Starting 04-chaining-selectors
 2025/08/17 1922 Finished 04-chaining-selectors
-2025/08/17 1922 Starting 05-descendant-combinator
 2025/08/17 1953 Finished 05-descendant-combinator
+2025/08/18 0849 Finished 01-cascade-fix
