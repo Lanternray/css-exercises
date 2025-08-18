@@ -6,4 +6,5 @@
 2025/08/17 1953 Finished 05-descendant-combinator
 2025/08/18 0849 Finished 01-cascade-fix
 2025/08/18 1336 Finished 01-margin-and-padding-1
-2025/08/18 1412 FInished 02-margin-and-padding-2, but redoing to focus on margin
+2025/08/18 1412 Finished 02-margin-and-padding-2, but redoing to focus on margin
+2025/08/18 1431 Finished 02-margin-and-padding-2 without solution
